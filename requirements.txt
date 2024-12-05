@@ -1,0 +1,7 @@
+torch
+yacs
+pygco
+vtk
+scikit-learn
+faiss
+trimesh
